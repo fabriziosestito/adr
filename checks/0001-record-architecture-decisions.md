@@ -13,7 +13,7 @@ We need to record the architectural decisions made on this project.
 ## Decision
 
 We will use Architecture Decision Records, as [described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
-We will add to the standard template a "Considered Options" paragraph when to track the alternatives we considered in the decision making process. 
+We will add to the standard template a "Considered Options" paragraph when to track the alternatives we considered in the decision-making process. 
 
 ## Consequences
 
